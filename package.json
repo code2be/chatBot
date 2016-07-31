@@ -1,0 +1,27 @@
+{
+  "name": "chatbot",
+  "version": "0.0.1",
+  "description": "Simple chat bot",
+  "main": "bot.js",
+  "dependencies": {
+    "botbuilder": "^3.1.1",
+    "express": "^4.14.0",
+    "natural": "^0.4.0",
+    "restify": "^4.1.1",
+    "socket.io": "^1.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code2be/chatBot.git"
+  },
+  "author": "Ahmed Hosny <code2be.ahmed@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/code2be/chatBot/issues"
+  },
+  "homepage": "https://github.com/code2be/chatBot#readme"
+}
